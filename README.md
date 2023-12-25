@@ -1,3 +1,4 @@
+<h1 align="center">Hi there👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnuel1&label=Profile%20views&color=0e75b6&style=flat" alt="mnuel1" /> </p>
 
@@ -7,6 +8,6 @@
 
 
 
-
+<p>&nbsp;</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnuel1&show_icons=true&locale=en" alt="mnuel1" /></p>
 
