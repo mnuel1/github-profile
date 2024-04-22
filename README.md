@@ -59,8 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mnuel1/mnuel1/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/mnuel1/count.svg?"  />
